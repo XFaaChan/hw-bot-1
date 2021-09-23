@@ -1,17 +1,10 @@
-<div align="center">
-<img src="https://i.ibb.co/rwVMrzF/bacotah-copy-800x800.jpg" alt="HWMODS2" width="300" />
 
-# HW MODS WA
-
->
->
->
-</div>
-<p align="center">
   <a href="https://github.com/HaikaltestBot123"><img title="Author" src="https://i.ibb.co/rwVMrzF/bacotah-copy-800x800.jpg" /></a>
   <h4 align="center">
-  <a href="https://wa.me/6285714170944">HW MODS WA>//< </a>
-</h4>
+  <p align="center">
+<a href="https://github.com/HaikaltestBot123/hw-bot"><img src="https://img.shields.io/badge/Author-HwMods-red.svg?style=for-the-badge&logo=github"/><a/>
+</p>
+<a href="https://trakteer.id/hw-mods-wa-haikal" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="100" style="border:0px;height:100px;" alt="DONASI FOR ME :V"></a>
 </p>
 
 ## CARA INSTALL DI TERMUX
@@ -102,18 +95,7 @@
 
 > ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
-</font>
-<h3><font size="3"><a href="https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"><font color="red">SUBSCRIBE</font>
-</h3>
-
-<h3><font size="3"><a href="https://www.instagram.com/hikal_857/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
-</h3>
-
-<h3><font size="3"><a href="https://t.me/haikal857"><font color="red">TELEGRAM</font>          
-
-<audio controls autoplay class="hidden" loop="true">
-        <source src="https://usaupload.com/file/Lj2/Shanna_Shannon_-_Kulihat_Ibu_Pertiwi__DoaUntukNegeri.mp3" type="audio/mpeg">
-</audio>
+<a href="https://trakteer.id/hw-mods-wa-haikal" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="100" style="border:0px;height:100px;" alt="DONASI FOR ME :V"></a>
 
 
   # DEVELOPER
